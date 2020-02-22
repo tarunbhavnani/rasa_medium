@@ -1,0 +1,27 @@
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+#language: en
+#pipeline: "supervised_embeddings"
+#- name: "intent_classifier_tarun.TarunAnalyzer"
+#- name: "intent_classifier_tarun2.TarunAnalyzer"
+#- name: "intent_classifier_tarun3.TarunAnalyzer"
+#- name: "sentiment.SentimentAnalyzer" 
+pipeline:
+#- name: "intent_classifier_tarun.TarunAnalyzer"
+#- name: "intent_classifier_tarun2.TarunAnalyzer"
+- name: "intent_classifier_tarun3.TarunAnalyzer"
+- name: "sentiment.SentimentAnalyzer" 
+
+language: en
+
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+  - name: MemoizationPolicy
+  - name: KerasPolicy
+  - name: MappingPolicy
+  - name: "FallbackPolicy"
+    nlu_threshold: 0.3
+    core_threshold: 0.5
+    fallback_action_name: "action_default_fallback"
+

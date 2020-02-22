@@ -1,0 +1,917 @@
+,intent,text,new
+0,greet,Hi,Hi
+1,greet,हाय,Alas
+2,greet,हाई,Hi
+3,greet,Hey,Hey
+4,greet,Hi bot,Hi bot
+5,greet,Hey bot,Hey bot
+6,greet,Hello,Hello
+7,greet,Good morning,Good morning
+8,greet,hi again,hi again
+9,greet,hi folks,hi folks
+10,greet,hi Mister,hi Mister
+11,greet,hi pal!,hi pal!
+12,greet,hi there,hi there
+13,greet,greetings,greetings
+14,greet,hello,hello
+15,greet,hello robot,hello robot
+16,greet,hey robot,hey robot
+17,greet,heyy,heyy
+18,greet,namaste,namaste
+19,greet,नमस्ते,Hello
+20,greet,namskar,namskar
+21,greet,namaskaar,namaskaar
+22,greet,naamaste,naamaste
+23,ask_name,what is your name,what is your name
+24,ask_name,whats your name,whats your name
+25,ask_name,whats ur name,whats ur name
+26,ask_name,do you have a name?,do you have a name?
+27,ask_name,do u have a name,do u have a name
+28,tell_name,what is my name?,what is my name?
+29,tell_name,what is my name,what is my name
+30,tell_name,whhats my name,whhats my name
+31,tell_name,tell me my name,tell me my name
+32,tell_name,do you remember my name?,do you remember my name?
+33,chitchat,None of your business,None of your business
+34,chitchat,chup kar,chup kar
+35,chitchat,चुप कर,keep quite
+36,chitchat,चुपकर,keep quite
+37,chitchat,abc,abc
+38,chitchat,what do you mean,what do you mean
+39,stop,stop,stop
+40,stop,स्टॉप,Stop
+41,outsource,outsource,outsource
+42,outsource,आउटसोर्स,Outsource
+43,outsource,out sourced,out sourced
+44,outsource,outsrcd,outsrcd
+45,outsource,out,out
+46,outsource,आउट,Out
+47,inhouse,in,in
+48,inhouse,इन हाऊस,In house
+49,inhouse,इनहाऊस,Inhaus
+50,inhouse,इन,In
+51,inhouse,inhouse,inhouse
+52,inhouse,inhs,inhs
+53,weather,how is the weather,how is the weather
+54,weather,hows the weather,hows the weather
+55,weather,howz the weather,howz the weather
+56,weather,weather kaisa hai?,weather kaisa hai?
+57,weather,is it raining?,is it raining?
+58,weather,its too hot,its too hot
+59,weather,is it too hot,is it too hot
+60,weather,its too cold,its too cold
+61,weather,is it too cold,is it too cold
+62,abuse,fuck off,fuck off
+63,abuse,fuckoff,fuckoff
+64,abuse,chal chutiya,chal chutiya
+65,abuse,maderchod,maderchod
+66,abuse,bhenchod,bhenchod
+67,abuse,chutiya,chutiya
+68,abuse,maderchod,maderchod
+69,abuse,loser,loser
+70,abuse,idiot,idiot
+71,abuse,gandu,gandu
+72,abuse,चल चूतिये,Moving pussy
+73,abuse,चूतिये,stupid
+74,abuse,मादरचोद,motherfucker
+75,abuse,बहनचोद,Sisterfucker
+76,abuse,गांडू,गांडू
+77,goodbye,goodbye,goodbye
+78,goodbye,bye,bye
+79,goodbye,bye bye,bye bye
+80,goodbye,बाय,bye
+81,goodbye,बाय बाय,bye Bye
+82,goodbye,गुडबाय,Goodbye
+83,thank,Thanks,Thanks
+84,thank,Thank you,Thank you
+85,thank,Thank you,Thank you
+86,thank,Thanks bot,Thanks bot
+87,thank,Thanks for that,Thanks for that
+88,thank,cheers,cheers
+89,thank,cheers bro,cheers bro
+90,thank,ok thanks!,ok thanks!
+91,thank,shukria,shukria
+92,thank,dhanyawad,dhanyawad
+93,thank,dhanyawaad,dhanyawaad
+94,thank,sukriya,sukriya
+95,thank,थैंक्यू,Thank you
+96,thank,धन्यवाद,Thank you
+97,thank,शुक्रिया,thank you
+98,affirm,yes,yes
+99,affirm,yepp,yepp
+100,affirm,yepp,yepp
+101,affirm,yuss,yuss
+102,affirm,yes sure,yes sure
+103,affirm,absolutely,absolutely
+104,affirm,for sure,for sure
+105,affirm,yes yes yes,yes yes yes
+106,affirm,yes,yes
+107,affirm,yepp,yepp
+108,affirm,yeah,yeah
+109,affirm,yepp,yepp
+110,affirm,haa,haa
+111,affirm,haan,haan
+112,affirm,haanji,haanji
+113,affirm,bilkul,bilkul
+114,affirm,sahi baat,sahi baat
+115,affirm,aji haa,aji haa
+116,affirm,jii haan,jii haan
+117,affirm,ji haa,ji haa
+118,affirm,यस,The
+119,affirm,हां,Yes
+120,affirm,अजी हां,Yes yes
+121,affirm,जी हां,Yes yes
+122,affirm,हां,Yes
+123,affirm,बिलकुल,Absolutely
+124,affirm,सही बात,correct
+125,affirm,हांजी,Yes
+126,affirm,हाँ,Yes
+127,affirm,हाँ,Yes
+128,inform,7838930304,7838930304
+129,inform,9414485068,9414485068
+130,inform,my number is 9489785068,my number is 9489785068
+131,inform,its 9834367345,its 9834367345
+132,inform,my reference number is 9414904068,my reference number is 9414904068
+133,inform,my number is 8967556347,my number is 8967556347
+134,inform,7878450304,7878450304
+135,inform,9419056068,9419056068
+136,inform,my number is 9414485968,my number is 9414485968
+137,inform,its 8765167345,its 8765167345
+138,inform,my reference number is 9445673468,my reference number is 9445673468
+139,inform,my number is 8967556347,my number is 8967556347
+140,inform,7838930304,7838930304
+141,inform,9414485068,9414485068
+142,inform,my number is 941263958,my number is 941263958
+143,inform,its 9841737345,its 9841737345
+144,inform,my reference number is 9419985068,my reference number is 9419985068
+145,inform,my number is 8967616347,my number is 8967616347
+146,inform,my id is 9414077395,my id is 9414077395
+147,inform,its 7838930304,its 7838930304
+148,inform,i am from kota,i am from kota
+149,inform,father mother sister her husband a nephew and my girlfriend,father mother sister her husband a nephew and my girlfriend
+150,inform,yaa he advises me on things,yaa he advises me on things
+151,inform,my office is in ghatkopar,my office is in ghatkopar
+152,inform,yes we have around 30 employees.,yes we have around 30 employees.
+153,inform,we have been here for the last 6 months.,we have been here for the last 6 months.
+154,inform,we have a clothes shop. my wife is the fashion designer i market them,we have a clothes shop. my wife is the fashion designer i market them
+155,inform,i stay in worli,i stay in worli
+156,inform,i live in dadar,i live in dadar
+157,inform,my house is in panvel,my house is in panvel
+158,inform,i stay in rajasthan,i stay in rajasthan
+159,inform,mumbai,mumbai
+160,inform,ahemadabad,ahemadabad
+161,inform,gujrat,gujrat
+162,inform,i stay in worli,i stay in worli
+163,inform,i live in dadar,i live in dadar
+164,inform,my house is in panvel,my house is in panvel
+165,inform,i stay in rajasthan,i stay in rajasthan
+166,inform,mumbai,mumbai
+167,inform,ahemadabad,ahemadabad
+168,inform,gujrat- i stay in worli,gujrat- i stay in worli
+169,inform,i live in dadar,i live in dadar
+170,inform,my house is in panvel,my house is in panvel
+171,inform,i stay in rajasthan,i stay in rajasthan
+172,inform,mumbai,mumbai
+173,inform,ahemadabad,ahemadabad
+174,inform,gujrat,gujrat
+175,inform,i stay in Palava,i stay in Palava
+176,inform,3,3
+177,inform,4,4
+178,inform,102,102
+179,inform,33,33
+180,inform,24,24
+181,inform,500,500
+182,inform,worli,worli
+183,inform,dadar,dadar
+184,inform,say,say
+185,inform,what,what
+186,inform,can you?,can you?
+187,inform,there are 4 members in my family. My parents my sister and myself.,there are 4 members in my family. My parents my sister and myself.
+188,inform,my parents and one sister,my parents and one sister
+189,inform,parents and two brothers,parents and two brothers
+190,inform,5 members in the family,5 members in the family
+191,inform,wife and three children,wife and three children
+192,inform,three members,three members
+193,inform,ihave 6 members in my family,ihave 6 members in my family
+194,inform,there are 5 members in my family.,there are 5 members in my family.
+195,inform,my brothers are also involved in the business,my brothers are also involved in the business
+196,inform,one of my brother manages some work,one of my brother manages some work
+197,inform,yes he handles the finances and i handle the daily mamagement.,yes he handles the finances and i handle the daily mamagement.
+198,inform,yaa he manages the daily affairs sits on shop.,yaa he manages the daily affairs sits on shop.
+199,inform,by father helps me alot somethimes my cousins also chip in,by father helps me alot somethimes my cousins also chip in
+200,inform,its located in prabhadevi,its located in prabhadevi
+201,inform,i have 10 employees,i have 10 employees
+202,inform,9975701240,9975701240
+203,inform,in colaba,in colaba
+204,inform,three,three
+205,inform,we make fools out of people,we make fools out of people
+206,inform,its in malabar,its in malabar
+207,inform,we have 125 cr employees but we work with some lacks,we have 125 cr employees but we work with some lacks
+208,inform,since last 3 months,since last 3 months
+209,inform,last 300 years,last 300 years
+210,inform,its 7838930304,its 7838930304
+211,inform,i stay in gharkopar,i stay in gharkopar
+212,inform,i have one sister and my parents. sister is married stays in holland,i have one sister and my parents. sister is married stays in holland
+213,inform,yes we make carpets and export it to the US,yes we make carpets and export it to the US
+214,inform,its in marol,its in marol
+215,inform,yes i havbe 45 emplyees. all of them are on wages.,yes i havbe 45 emplyees. all of them are on wages.
+216,inform,its been 10 years now.,its been 10 years now.
+217,inform,we have been in this one for the last 25 months.,we have been in this one for the last 25 months.
+218,inform,1 cr,1 cr
+219,inform,crossed 1 cr already.,crossed 1 cr already.
+220,inform,7838930304,7838930304
+221,inform,9414485068,9414485068
+222,inform,my number is 9489785068,my number is 9489785068
+223,inform,its 9834367345,its 9834367345
+224,inform,my reference number is 9414904068,my reference number is 9414904068
+225,inform,my number is 8967556347,my number is 8967556347
+226,inform,7878450304,7878450304
+227,inform,9419056068,9419056068
+228,inform,my number is 9414485968,my number is 9414485968
+229,inform,its 8765167345,its 8765167345
+230,inform,my reference number is 9445673468,my reference number is 9445673468
+231,inform,my number is 8967556347,my number is 8967556347
+232,inform,7838930304,7838930304
+233,inform,9414485068,9414485068
+234,inform,my number is 941263958,my number is 941263958
+235,inform,its 9841737345,its 9841737345
+236,inform,my reference number is 9419985068,my reference number is 9419985068
+237,inform,my number is 8967616347,my number is 8967616347
+238,inform,my id is 9414077395,my id is 9414077395
+239,inform,its 7838930304,its 7838930304
+240,inform,i am from kota,i am from kota
+241,inform,father mother sister her husband a nephew and my girlfriend,father mother sister her husband a nephew and my girlfriend
+242,inform,yaa he advises me on things,yaa he advises me on things
+243,inform,my office is in ghatkopar,my office is in ghatkopar
+244,inform,yes we have around 30 employees.,yes we have around 30 employees.
+245,inform,we have been here for the last 6.,we have been here for the last 6.
+246,inform,we have a clothes shop. my wife is the fashion designer i market them,we have a clothes shop. my wife is the fashion designer i market them
+247,inform,i stay in worli,i stay in worli
+248,inform,i live in dadar,i live in dadar
+249,inform,my house is in panvel,my house is in panvel
+250,inform,i stay in rajasthan,i stay in rajasthan
+251,inform,mumbai,mumbai
+252,inform,ahemadabad,ahemadabad
+253,inform,gujrat,gujrat
+254,inform,i stay in worli,i stay in worli
+255,inform,i live in dadar,i live in dadar
+256,inform,my house is in panvel,my house is in panvel
+257,inform,i stay in rajasthan,i stay in rajasthan
+258,inform,mumbai,mumbai
+259,inform,ahemadabad,ahemadabad
+260,inform,gujrat- i stay in worli,gujrat- i stay in worli
+261,inform,i live in dadar,i live in dadar
+262,inform,my house is in panvel,my house is in panvel
+263,inform,i stay in rajasthan,i stay in rajasthan
+264,inform,mumbai,mumbai
+265,inform,ahemadabad,ahemadabad
+266,inform,gujrat,gujrat
+267,inform,i stay in Palava,i stay in Palava
+268,inform,3,3
+269,inform,4,4
+270,inform,102,102
+271,inform,33,33
+272,inform,24,24
+273,inform,500,500
+274,inform,worli,worli
+275,inform,dadar,dadar
+276,inform,say,say
+277,inform,what,what
+278,inform,can you?,can you?
+279,inform,there are 4 members in my family. My parents my sister and myself.,there are 4 members in my family. My parents my sister and myself.
+280,inform,my parents and one sister,my parents and one sister
+281,inform,parents and two brothers,parents and two brothers
+282,inform,5 members in the family,5 members in the family
+283,inform,wife and three children,wife and three children
+284,inform,three members,three members
+285,inform,ihave 6 members in my family,ihave 6 members in my family
+286,inform,there are 5 members in my family.,there are 5 members in my family.
+287,inform,my brothers are also involved in the business,my brothers are also involved in the business
+288,inform,one of my brother manages some work,one of my brother manages some work
+289,inform,yes he handles the finances and i handle the daily mamagement.,yes he handles the finances and i handle the daily mamagement.
+290,inform,yaa he manages the daily affairs sits on shop.,yaa he manages the daily affairs sits on shop.
+291,inform,by father helps me alot somethimes my cousins also chip in,by father helps me alot somethimes my cousins also chip in
+292,inform,its located in prabhadevi,its located in prabhadevi
+293,inform,i have 10 employees,i have 10 employees
+294,inform,9975701240,9975701240
+295,inform,in colaba,in colaba
+296,inform,three,three
+297,inform,we make fools out of people,we make fools out of people
+298,inform,its in malabar,its in malabar
+299,inform,we have 125 cr employees but we work with some lacks,we have 125 cr employees but we work with some lacks
+300,inform,since last 3,since last 3
+301,inform,last 300,last 300
+302,inform,its 7838930304,its 7838930304
+303,inform,i stay in gharkopar,i stay in gharkopar
+304,inform,i have one sister and my parents. sister is married stays in holland,i have one sister and my parents. sister is married stays in holland
+305,inform,yes we make carpets and export it to the US,yes we make carpets and export it to the US
+306,inform,its in marol,its in marol
+307,inform,yes i havbe 45 emplyees. all of them are on wages.,yes i havbe 45 emplyees. all of them are on wages.
+308,inform,its been 10 now.,its been 10 now.
+309,inform,we have been in this one for the last 25.,we have been in this one for the last 25.
+310,inform,1,1
+311,inform,crossed 1 already.,crossed 1 already.
+312,inform,its 7838930304,its 7838930304
+313,inform,this this is the dirsctor and this this is the shareholding pattern,this this is the dirsctor and this this is the shareholding pattern
+314,inform,its been 13,its been 13
+315,inform,its in haryana,its in haryana
+316,inform,we have 3 machines,we have 3 machines
+317,inform,2000 tonnes and 70 pc,2000 tonnes and 70 pc
+318,inform,67 workers in total,67 workers in total
+319,inform,"3 parties abc, dfg and xcw.","3 parties abc, dfg and xcw."
+320,inform,we give in 30 days,we give in 30 days
+321,inform,have to pay 30 cr in market,have to pay 30 cr in market
+322,inform,some what two months,some what two months
+323,inform,in bhiwandi close to the main factory. its owned.,in bhiwandi close to the main factory. its owned.
+324,inform,yes there are numerous custiomers.,yes there are numerous custiomers.
+325,inform,around 60 days,around 60 days
+326,inform,have to receive some 40 cr,have to receive some 40 cr
+327,inform,some 3 cr,some 3 cr
+328,inform,around 50 cr,around 50 cr
+329,inform,mostly in bank after gst.,mostly in bank after gst.
+330,inform,13 pc,13 pc
+331,inform,67 emplyees,67 emplyees
+332,inform,we r in the 4 pc bracket,we r in the 4 pc bracket
+333,inform,for 3 cr,for 3 cr
+334,inform,planning to start a new unit at manesar.,planning to start a new unit at manesar.
+335,inform,"i have x y and z parties and they have w,e,r sharehiolding","i have x y and z parties and they have w,e,r sharehiolding"
+336,inform,13 years till now,13 years till now
+337,inform,retail,retail
+338,inform,stockist,stockist
+339,inform,there are these three parties i purchase from,there are these three parties i purchase from
+340,inform,three months,three months
+341,inform,3.4 cr,3.4 cr
+342,inform,its near the locations,its near the locations
+343,inform,i am a retialer.,i am a retialer.
+344,inform,its 90 days.,its 90 days.
+345,inform,2.3 cr,2.3 cr
+346,inform,30 cr pm,30 cr pm
+347,inform,3,3
+348,inform,90 pc,90 pc
+349,inform,28 pc,28 pc
+350,inform,78 employess,78 employess
+351,inform,14 pc,14 pc
+352,inform,30 lacks,30 lacks
+353,inform,to increase productiopn.,to increase productiopn.
+354,inform,it is 7838930304,it is 7838930304
+355,inform,private,private
+356,inform,mahesh majrekra and sanjay gupta. all three of us have 33 pc each.,mahesh majrekra and sanjay gupta. all three of us have 33 pc each.
+357,inform,its been 13 years,its been 13 years
+358,inform,groceries,groceries
+359,inform,retail,retail
+360,inform,stockist,stockist
+361,inform,"i purchase from three parties, this this ans this","i purchase from three parties, this this ans this"
+362,inform,we receive the payments in 45 days,we receive the payments in 45 days
+363,inform,some 30,some 30
+364,inform,we have stocks for 30 days,we have stocks for 30 days
+365,inform,its is near factory,its is near factory
+366,inform,"we sell to 4 parties, this this and ths","we sell to 4 parties, this this and ths"
+367,inform,90 days,90 days
+368,inform,we have to receive some 3 lacks from the debtors,we have to receive some 3 lacks from the debtors
+369,inform,we do some 13 lacks,we do some 13 lacks
+370,inform,its around 2.5 cr,its around 2.5 cr
+371,inform,its about 78%,its about 78%
+372,inform,23 pc,23 pc
+373,inform,we have 45 emplyees,we have 45 emplyees
+374,inform,they are 18 pc,they are 18 pc
+375,inform,8 cr,8 cr
+376,inform,we have to put one new unit.,we have to put one new unit.
+377,inform,it is 7838930304,it is 7838930304
+378,inform,mahesh majrekra and sanjay gupta. all three of us have 33 pc each.,mahesh majrekra and sanjay gupta. all three of us have 33 pc each.
+379,inform,its been 13 years,its been 13 years
+380,inform,groceries,groceries
+381,inform,retail,retail
+382,inform,stockist,stockist
+383,inform,"i purchase from three parties, this this ans this","i purchase from three parties, this this ans this"
+384,inform,we receive the payments in 45 days,we receive the payments in 45 days
+385,inform,some 30,some 30
+386,inform,we have stocks for 30 days,we have stocks for 30 days
+387,inform,its is near factory,its is near factory
+388,inform,"we sell to 4 parties, this this and ths","we sell to 4 parties, this this and ths"
+389,inform,90 days,90 days
+390,inform,we have to receive some 3 lac from the debtors,we have to receive some 3 lac from the debtors
+391,inform,we do some 13 lacks,we do some 13 lacks
+392,inform,its around 2.5 cr,its around 2.5 cr
+393,inform,its about 78 %,its about 78 %
+394,inform,23 pc,23 pc
+395,inform,we have 45 emplyees,we have 45 emplyees
+396,inform,they are 18 pc,they are 18 pc
+397,inform,8,8
+398,inform,we have to put one new unit.,we have to put one new unit.
+399,inform,its 7838930304,its 7838930304
+400,inform,its have been 12,its have been 12
+401,inform,i ahve been in this business since forever. worked with my father before.,i ahve been in this business since forever. worked with my father before.
+402,inform,textiles,textiles
+403,inform,"its in jabalpur, near bedaghat.","its in jabalpur, near bedaghat."
+404,inform,"we have some staff there, i also vist sometimes a month.","we have some staff there, i also vist sometimes a month."
+405,inform,we have some 23 machines,we have some 23 machines
+406,inform,67 workers are there.,67 workers are there.
+407,inform,50k,50k
+408,inform,100k,100k
+409,inform,20k,20k
+410,inform,50 k,50 k
+411,inform,20 k,20 k
+412,inform,lacw,lacw
+413,inform,20 lacws,20 lacws
+414,inform,wip,wip
+415,inform,it is wip,it is wip
+416,inform,month,month
+417,inform,month or two,month or two
+418,inform,three months,three months
+419,inform,year and beyond,year and beyond
+420,inform,we have a capacity of 23 yarns per day and we utilize all of it.,we have a capacity of 23 yarns per day and we utilize all of it.
+421,inform,we purchase raw materials from welspun.,we purchase raw materials from welspun.
+422,inform,we pay in 90,we pay in 90
+423,inform,we have to pay some 34 to welspun,we have to pay some 34 to welspun
+424,inform,we have stock for 120 days at any point in time.,we have stock for 120 days at any point in time.
+425,inform,we sell to lots of retailers across india.,we sell to lots of retailers across india.
+426,inform,we offer a credit period of 45. days,we offer a credit period of 45. days
+427,inform,very samll amount is outstanding. we receive payments on time.,very samll amount is outstanding. we receive payments on time.
+428,inform,we sell about 25 worth of goods every month.,we sell about 25 worth of goods every month.
+429,inform,we have done some 4 and are expecting to finish year on 6+cr,we have done some 4 and are expecting to finish year on 6+cr
+430,inform,not more than 20 pc,not more than 20 pc
+431,inform,we work on around 18 pc returns,we work on around 18 pc returns
+432,inform,total 67 employees,total 67 employees
+433,inform,18 pc,18 pc
+434,inform,35 lacks,35 lacks
+435,inform,i want to start another manufacture unit.,i want to start another manufacture unit.
+436,inform,clothes,clothes
+437,inform,cloth,cloth
+438,inform,textile,textile
+439,inform,1,1
+440,inform,2,2
+441,inform,3,3
+442,inform,4,4
+443,inform,5,5
+444,inform,6,6
+445,inform,7,7
+446,inform,8,8
+447,inform,9,9
+448,inform,10,10
+449,inform,something,something
+450,inform,this and this,this and this
+451,inform,was studying,was studying
+452,inform,1pc,1pc
+453,inform,12cr,12cr
+454,inform,12pc,12pc
+455,inform,19pc,19pc
+456,inform,fun,fun
+457,inform,somehow,somehow
+458,inform,new nothing,new nothing
+459,inform,here and there,here and there
+460,inform,thane,thane
+461,inform,chichpokli,chichpokli
+462,inform,varanasi,varanasi
+463,inform,jabalputr,jabalputr
+464,inform,lokhandwala,lokhandwala
+465,inform,vadala,vadala
+466,inform,andheri,andheri
+467,inform,ahemedabad,ahemedabad
+468,inform,fmcg,fmcg
+469,inform,fmcg,fmcg
+470,inform,fmcg,fmcg
+471,inform,textile,textile
+472,inform,clothe,clothe
+473,inform,clothes,clothes
+474,inform,electronics goods,electronics goods
+475,inform,electonic,electonic
+476,inform,vegetables,vegetables
+477,inform,paint,paint
+478,inform,stone,stone
+479,inform,marble,marble
+480,inform,paper mill,paper mill
+481,inform,groceries,groceries
+482,inform,56 lacw,56 lacw
+483,inform,flipkart,flipkart
+484,inform,mai worli me rehta hu,mai worli me rehta hu
+485,inform,mai kolaba me rehta hu,mai kolaba me rehta hu
+486,inform,mera ghar lohandwala me hai,mera ghar lohandwala me hai
+487,inform,mere mata pita or behen k saath rehta hu,mere mata pita or behen k saath rehta hu
+488,inform,meri wife or bacchon k saath rehta hu,meri wife or bacchon k saath rehta hu
+489,inform,mera poora pariwar saath me worli me rehta hai,mera poora pariwar saath me worli me rehta hai
+490,inform,89pc,89pc
+491,inform,14pc,14pc
+492,inform,10pc,10pc
+493,inform,9414060767,9414060767
+494,inform,ya mr dash dash and mr gdash gdash are the partners along with me. we have equal shares,ya mr dash dash and mr gdash gdash are the partners along with me. we have equal shares
+495,inform,we have been here for some seven and a half years,we have been here for some seven and a half years
+496,inform,electronics,electronics
+497,inform,its in gujrat,its in gujrat
+498,inform,one of us visits evrey week,one of us visits evrey week
+499,inform,one machine we haveits a big one,one machine we haveits a big one
+500,inform,three ppl handle the one machine,three ppl handle the one machine
+501,inform,its can produce 300 gadgets per day and we use it all,its can produce 300 gadgets per day and we use it all
+502,inform,we buy raw material from the port in gujrat,we buy raw material from the port in gujrat
+503,inform,we pay in 90 days,we pay in 90 days
+504,inform,we have to pay some 34 lacks to our creditors on the book,we have to pay some 34 lacks to our creditors on the book
+505,inform,for about a month,for about a month
+506,inform,we sell our products in all of north india. Delhi is tghe major buyer.,we sell our products in all of north india. Delhi is tghe major buyer.
+507,inform,we offer payment terms of 45 days not anything more,we offer payment terms of 45 days not anything more
+508,inform,receivables are noth of a crore,receivables are noth of a crore
+509,inform,aroubd 30 lacks,aroubd 30 lacks
+510,inform,we have done some 3.5 cr till now and are planning to touch 7 cr by the end of this year,we have done some 3.5 cr till now and are planning to touch 7 cr by the end of this year
+511,inform,about 75 pc,about 75 pc
+512,inform,"we work on 25 pc margins, at the least.","we work on 25 pc margins, at the least."
+513,inform,12,12
+514,inform,14pc,14pc
+515,inform,aroubd 25 lacks,aroubd 25 lacks
+516,inform,will set up a new machine,will set up a new machine
+517,inform,7737518038,7737518038
+518,inform,i qon 20 pc shares,i qon 20 pc shares
+519,inform,the company got incorporated in 1999,the company got incorporated in 1999
+520,inform,we are into cements,we are into cements
+521,inform,the unit is in bihar,the unit is in bihar
+522,inform,there is a big work force abnd manager at the site they manage and report to em,there is a big work force abnd manager at the site they manage and report to em
+523,inform,its a big plants and many machines,its a big plants and many machines
+524,inform,230 orkers,230 orkers
+525,inform,"we can create 200 tonnes of cement per wk, we do around 100 tonnes","we can create 200 tonnes of cement per wk, we do around 100 tonnes"
+526,inform,we purchase rawmaterial from chine,we purchase rawmaterial from chine
+527,inform,90 days,90 days
+528,inform,must be aroubnd 10 cr we work around that,must be aroubnd 10 cr we work around that
+529,inform,6 months,6 months
+530,inform,our major buyer is the indian government,our major buyer is the indian government
+531,inform,60 days,60 days
+532,inform,300 crores,300 crores
+533,inform,around 70-80 cr,around 70-80 cr
+534,inform,we turnover at aroubnd 300-400 crores,we turnover at aroubnd 300-400 crores
+535,inform,we are public it doesnt matter wthr cash or not,we are public it doesnt matter wthr cash or not
+536,inform,around 14 pc,around 14 pc
+537,inform,345,345
+538,inform,14 pc,14 pc
+539,inform,we will pay in frb,we will pay in frb
+540,inform,15 cr,15 cr
+541,inform,we want to set up a small new plant,we want to set up a small new plant
+542,inform,7838930304,7838930304
+543,inform,mr bhatia with 34 pc and mr sharma with 10 pc,mr bhatia with 34 pc and mr sharma with 10 pc
+544,inform,i have been here for the last 4-5 years,i have been here for the last 4-5 years
+545,inform,textiles,textiles
+546,inform,its in jabalpur,its in jabalpur
+547,inform,i travel once a week,i travel once a week
+548,inform,3 machines,3 machines
+549,inform,45 workers,45 workers
+550,inform,we have total capacity of 3 tonnes we produce 1.5 tonnes,we have total capacity of 3 tonnes we produce 1.5 tonnes
+551,inform,"three parties, reliance and gm","three parties, reliance and gm"
+552,inform,we collect in 90 days,we collect in 90 days
+553,inform,we have to receive some 1 cr from the market,we have to receive some 1 cr from the market
+554,inform,we maintain stock levels for 30 days,we maintain stock levels for 30 days
+555,inform,"we have one buyer, hdfc bank.","we have one buyer, hdfc bank."
+556,inform,we get our payments in 30 days max.,we get our payments in 30 days max.
+557,inform,market owes us 2 cr,market owes us 2 cr
+558,inform,we sell some 34 lac worth of stuff,we sell some 34 lac worth of stuff
+559,inform,it is around 34 cr annual,it is around 34 cr annual
+560,inform,its about 30 pc,its about 30 pc
+561,inform,our margins are 22 pc,our margins are 22 pc
+562,inform,67 employees inclusing me as well,67 employees inclusing me as well
+563,inform,12 pc,12 pc
+564,inform,paid,paid
+565,inform,15 cr,15 cr
+566,inform,we want to put up new shop at andheri,we want to put up new shop at andheri
+567,inform,something,something
+568,inform,this this,this this
+569,inform,this and this,this and this
+570,inform,this and this,this and this
+571,inform,this and this,this and this
+572,inform,so so doubts,so so doubts
+573,inform,doubts and doubts,doubts and doubts
+574,inform,business,business
+575,inform,some other job,some other job
+576,inform,पब्लिक,Public
+577,inform,प्राइवेट,Private
+578,inform,प्रोप्रिएटरी,Proprietary
+579,inform,पार्टनरशिप,partnership
+580,inform,ट्रेडर,Trader
+581,inform,जॉब वर्क,Job work
+582,inform,इन ऑर्गेनिक,In organic
+583,inform,ऑर्गेनिक,Organic
+584,inform,सिविल,Civil
+585,inform,मैकेनिकल,Mechanical
+586,inform,इलेक्ट्रिकल,Electrical
+587,inform,प्लंबिंग,Plumbing
+588,inform,गवर्नमेंट,Government
+589,inform,सेमी गवर्नमेंट,Semi government
+590,inform,प्राइवेट,Private
+591,inform,सबकॉन्ट्रैक्टर,Subcontractor
+592,inform,कॉटन,Cotton
+593,inform,सिंथेटिक,Synthetic
+594,inform,सिल्क,Silk
+595,inform,जूट,jute
+596,inform,वूलन,Wool
+597,inform,मैन्यूफैक्चर,Manufacturer
+598,inform,ट्रेडर,Trader
+599,inform,जॉब वर्क,Job work
+600,inform,एसपी,SP
+601,inform,मैन्यूफैक्चर,Manufacturer
+602,inform,ट्रेडर,Trader
+603,inform,जेनेरिक,Generic
+604,inform,ब्रांडेड,Branded
+605,inform,अधिक,more
+606,inform,मध्य,The middle
+607,inform,कम,Less
+608,inform,रिटेल,Retail
+609,inform,होलसेल,Wholesale
+610,inform,दोनों,Both
+611,inform,30 प्रतिशत या उससे कम,30 percent or less
+612,inform,30 से 60 प्रतिशत,30 to 60 percent
+613,inform,60 प्रतिशत से अधिक,More than 60 percent
+614,inform,पब्लिक,Public
+615,inform,प्राइवेट,Private
+616,inform,प्रोप्रिएटरी,Proprietary
+617,inform,पार्टनरशिप,partnership
+618,inform,ट्रेडर,Trader
+619,inform,जॉब वर्क,Job work
+620,inform,इन ऑर्गेनिक,In organic
+621,inform,ऑर्गेनिक,Organic
+622,inform,सिविल,Civil
+623,inform,मैकेनिकल,Mechanical
+624,inform,इलेक्ट्रिकल,Electrical
+625,inform,प्लंबिंग,Plumbing
+626,inform,गवर्नमेंट,Government
+627,inform,सेमी गवर्नमेंट,Semi government
+628,inform,प्राइवेट,Private
+629,inform,सबकॉन्ट्रैक्टर,Subcontractor
+630,inform,कॉटन,Cotton
+631,inform,सिंथेटिक,Synthetic
+632,inform,सिल्क,Silk
+633,inform,जूट,jute
+634,inform,वूलन,Wool
+635,inform,मैन्यूफैक्चर,Manufacturer
+636,inform,ट्रेडर,Trader
+637,inform,जॉब वर्क,Job work
+638,inform,एसपी,SP
+639,inform,मैन्यूफैक्चर,Manufacturer
+640,inform,ट्रेडर,Trader
+641,inform,जेनेरिक,Generic
+642,inform,ब्रांडेड,Branded
+643,inform,अधिक,more
+644,inform,मध्य,The middle
+645,inform,कम,Less
+646,inform,रिटेल,Retail
+647,inform,होलसेल,Wholesale
+648,inform,दोनों,Both
+649,inform,30 प्रतिशत या उससे कम,30 percent or less
+650,inform,30 से 60 प्रतिशत,30 to 60 percent
+651,inform,60 प्रतिशत से अधिक,More than 60 percent
+652,inform,गारमेंट्स,Garments
+653,inform,एफएमसीजी,FMCG
+654,inform,केमिकल,Chemical
+655,inform,होटल,hotel
+656,inform,फुटवियर,Footwear
+657,inform,कांट्रेक्टर,Contractor
+658,inform,टैक्सटाइल,Textile
+659,inform,फार्मा,Pharma
+660,inform,फूड प्रोसेसिंग,Food processing
+661,inform,गारमेंट्स,Garments
+662,inform,एफएमसीजी,FMCG
+663,inform,केमिकल,Chemical
+664,inform,होटल,hotel
+665,inform,फुटवियर,Footwear
+666,inform,कांट्रेक्टर,Contractor
+667,inform,टैक्सटाइल,Textile
+668,inform,फार्मा,Pharma
+669,inform,फूड प्रोसेसिंग,Food processing
+670,inform,90 डेज,90 days
+671,inform,60 डेज,60 days
+672,inform,30 डेज,30 days
+673,inform,डेज,Days
+674,inform,सर्विस प्रोवाइडर,Service provider
+675,inform,सर्विस प्रोवाइडर,Service provider
+676,inform,खुद से,my self
+677,inform,अपने से,From oneself
+678,inform,दत्ता,Dutta
+679,inform,हमारा व्यवसाय पब्लिक है,Our business is public
+680,inform,हमारा व्यवसाय प्राइवेट है,Our business is private
+681,inform,मेरा व्यवसाय प्रोप्रिएटरी है,My business is proprietary
+682,inform,में इस व्यवसाय में पार्टनरशिप में हूँ,I am in partnership in this business
+683,inform,मेरा व्यवसाय पब्लिक है,My business is public
+684,inform,हमारा व्यवसाय प्रोप्रिएटरी है,Our business is proprietary
+685,inform,हमारा व्यवसाय पार्टनरशिप है,Our business is partnership
+686,inform,हमारा व्यवसाय पब्लिक है,Our business is public
+687,inform,पार्टनरशिप में है,Is in partnership
+688,inform,मेरा व्यसाय पहले प्राइवेट था अब पार्टनरशिप में है,"My business was previously private, now in partnership"
+689,inform,कमपनी में मेरी हिस्सेदारी दस परसेंट है,My share in the company is ten percent
+690,inform,मेरी दस परसेंट हिस्सेदारी है इस बिसनेस में,I have ten percent stake in this business
+691,inform,में इस बिसनेस में बीस परसेंट हिस्सेदारी में हूँ,I am in a twenty percent stake in this business
+692,inform,कमपनी में मेरी हिस्सेदारी 15% है,My stake in the company is 15%
+693,inform,मेरी 25% हिस्सेदारी है इस बिसनेस में,I have a 25% stake in this business
+694,inform,में इस बिसनेस में 20% हिस्सेदारी में हूँ,I am in 20% stake in this business
+695,inform,हाँ मेरी कंपनी शेयर मार्केट में लिस्टेड है,Yes my company is listed on the stock market
+696,inform,मेरी कंपनी शेयर मार्केट में लिस्टेड नहीं है,My company is not listed on the stock market
+697,inform,मेरी कंपनी शेयर मार्केट में लिस्टेड है,My company is listed on the stock market
+698,inform,हमारी कंपनी शेयर मार्केट में लिस्टेड है,Our company is listed on the stock market
+699,inform,बॉम्बे स्टॉक एक्सचेंज में लिस्टेड है,Listed on Bombay Stock Exchange
+700,inform,हमारी कंपनी मद्रास स्टॉक एक्सचेंज में लिस्टेड है,Our company is listed on the Madras Stock Exchange
+701,inform,नहीं किसी भी शेयर मार्केट में लिस्टेड नहीं है,"No, not listed in any stock market"
+702,inform,मेरी कंपनी नेशनल स्टॉक एक्सचेंज में लिस्टेड है,My company is listed on the National Stock Exchange
+703,inform,मुझे इस व्यवस्या में पंद्रह साल हो गए है,It's been fifteen years for me
+704,inform,में दस साल से यह बिज़नेस कर रहा हु,I have been doing this business for ten years
+705,inform,मुझे हो गए है चार साल,I have been four years
+706,inform,में लगभग छे साल से इस बिनेस्स में हु,I have been in this business for almost six years
+707,inform,मुझे इस व्यवसाय में करीब करीब सात साल हो गए है,I have been in this business for almost seven years
+708,inform,मेरा उद्योग प्रकार सूचि में नहीं है,My industry type is not listed
+709,inform,हमारा गरमेंट का बिसनेस है,Our business is business
+710,inform,में कांट्रेक्टर का काम करता हु,I work as a contractor
+711,inform,में  गारमेंट्स का काम करता हु,I work in garments
+712,inform,मेरा उद्योग प्रकार केमिकल है,My industry type is chemical
+713,inform,उद्योग प्रकार होटल है,Industry Type is Hotel
+714,inform,मेरा फुटवियर का बिसनेस है,I wear footwear
+715,inform,मेरा उद्योग प्रकार कांट्रेक्टर है,My industry type is a contractor
+716,inform,हमारा टेक्सटाइल का व्यापर है,We have a textile business
+717,inform,मेरा उद्योग प्रकार फार्मा है,My industry type is Pharma
+718,inform,मेरा फ़ूड  प्रोसेसिंग  का उद्योग है,Mine is food processing industry
+719,inform,मेरा उद्योग प्रकार इम्पोर्ट एक्सपोर्ट है,My industry type is import export
+720,inform,मेरा उद्योग प्रकार रियल एस्टेट है,My Industry Type is Real Estate
+721,inform,में सिविल वाले कॉन्ट्रैक्ट उठाता  हु,I pick up a civil contract
+722,inform,में मैकेनिकल से सम्बंधित कॉन्ट्रैक्ट उठता हु,I get a mechanical contract
+723,inform,इलेक्ट्रिकल वाले कॉन्ट्रैक्ट्स उठाते है,Pick up electrical contracts
+724,inform,हम प्लंबिंग वाले कॉन्ट्रैक्ट्स लेते है,We take plumbing contracts
+725,inform,हम सिविल के साथ साथ मैकेनिकल वाले कॉन्ट्रैक्ट्स भी लेते है,We also undertake civil as well as mechanical contracts.
+726,inform,इलेक्ट्रिकल और प्लंबिंग वाले कॉन्ट्रैक्ट्स उठाते है,Picks up electrical and plumbing contracts
+727,inform,हम कैटरीन के कॉन्टेक्ट्स उठाते है,We pick up Katrin's contacts
+728,inform,हम किसी भी प्रकार का कॉन्ट्रैक्ट उठाते है,We undertake any type of contract
+729,inform,सभी प्रकार के कॉन्ट्रैक्ट उठाते है,Picks up all types of contracts
+730,inform,मेरी प्रोफाइल गवर्नमेंट है,My profile is government
+731,inform,मेरी कांट्रेक्टर प्रोफाइल सेमी गवर्नमेंट है,My contractor profile is semi government
+732,inform,प्रोफाइल प्राइवेट है,Profile is private
+733,inform,मेरी  सबकॉन्ट्रैक्टर की प्रोफाइल है,My subcontractor profile is
+734,inform,मेरी प्रोफाइल यहाँ नहीं दी गयी है,My profile is not given here
+735,inform,मेरी कांट्रेक्टर प्रोफाइल का पता नहीं,My contractor profile is not known
+736,inform,मेरा बिसनेस डी सी जी ऐ से  एप्रूव्ड है,My business is approved by DCGA
+737,inform,हमारा बिसनेस एफ एस एस आई से एप्रूव्ड है,Our business is approved by FSI
+738,inform,हाँ आई आर डी ऐ से सर्टिफाइड है,Yes irda certified
+739,inform,मेरा बिनेस्स सर्टिफाइड है,My business is certified
+740,inform,हाँ मेरा बिसनेस आर्गेनाइजेशन से एप्रूव्ड है,Yes my business is approved by the organization
+741,inform,किस आर्गेनाइजेशन से एप्रूव्ड है मुझे याद नहीं,I don't remember which organization is approved
+742,inform,मेरा बिनेस्स किसी भी आर्गेनाइजेशन से एप्रूव्ड नहीं है और न ही सर्टिफाइड है,"My business is not approved by any organization, nor is it certified"
+743,inform,हाँ मेरे पास कंट्राक्टरशिप का लइसेंस है,Yes i have the license of the contractors
+744,inform,मेरा कोन्त्रक्टोरशिप का लइसेंस अभी नहीं है,My contractor's license is not there yet
+745,inform,मुझे कोन्त्रक्टोरशिप का लइसेंस बनवाना है,I want to get a contract license
+746,inform,मेरे पास क्लास  ऐऐ  लाइसेंस है,I have class aa license
+747,inform,क्लास सी का लइसेंस है मेरे पास,I have class C license
+748,inform,हाँ मेरे पास क्लास बी का लइसेंस है,Yes i have class b license
+749,inform,हम इनहॉउस मैन्युफैक्चरिंग का व्यापर करते है,We trade inhouse manufacturing.
+750,inform,हाँ मैन्युफैक्चरिंग इनहॉउस ही  है,Yes manufacturing inhouse
+751,inform,में ट्रेडिंग का व्यापर करता हु,I trade in
+752,inform,मैंने मैन्युफैक्चरिंग कही आउटसोर्स नहीं की है,I have not outsourced manufacturing
+753,inform,हम कच्चा माल खुद हे बनाते है,We make raw materials ourselves
+754,inform,कच्चा माल हम अलग अलग जगह से लेते है,We take raw materials from different places
+755,inform,हम अलग अलग व्होलसेलर्स से कच्चा माल लेते है,We take raw materials from different whosellers.
+756,inform,में कच्चा माल अमेज़न से लेता हु,I take raw material from amazon
+757,inform,सुप्लायर्स के साथ मेरी एक महीने की पेमेंट शर्त है,I have one month payment condition with suppliers
+758,inform,में दो महीने की पेमेंट शर्त रखता  हूँ,I have a payment condition of two months
+759,inform,हमारी पेमेंट शर्त तीस दिन की है,Our payment condition is 30 days
+760,inform,हम नब्भे दिन की पेमेंट शर्त पे काम करते है,We work on the payment terms of the ninth day
+761,inform,मेरी और सप्लायर की तीस दिन की पेमेंट शर्त है,I and the supplier have a 30-day payment condition
+762,inform,हमारी पेमेंट शर्त 30 दिन की है,Our payment condition is 30 days
+763,inform,हम 90 दिन की पेमेंट शर्त पे काम करते है,We work on a 90-day payment condition
+764,inform,मेरी और सप्लायर की 30 दिन की पेमेंट शर्त है,My and supplier have a 30-day payment condition
+765,inform,हम पेमेंट हाथो हाथ लेते है,We take payment
+766,inform,मेरा बिन्सेस सीजनल नहीं है,My business is not seasonal
+767,inform,हाँ मेरा व्यवसाय सीजनल है,Yes my business is seasonal
+768,inform,मेरा व्यवसाय गर्मियों में ज्यादा चलता है और बाकि सीजन में थोड़ा कम होता है,My business runs more in the summer and slightly less in the rest of the season.
+769,inform,तीन लाख की मासिक बिक्री है,Monthly sales of three million
+770,inform,हमारी मासिक बिक्री डेढ़ लाख है,Our monthly sales are one and a half million
+771,inform,हमारी लगभग चार लाख की मासिक बिक्री होती है,We have monthly sales of about four lakhs
+772,inform,300000 की मासिक बिक्री है,Monthly sales of 300000
+773,inform,"हमारी मासिक बिक्री 150,000 लाख है","Our monthly sales are 150,000 millions"
+774,inform,हमारी लगभग 600000 की मासिक बिक्री होती है,We have monthly sales of about 600000
+775,inform,वन थाउजेंड,One thousand
+776,inform,थाउजेंड,thousand
+777,deny,no,no
+778,deny,No,No
+779,deny,nah,nah
+780,deny,Nope,Nope
+781,deny,noi,noi
+782,deny,no,no
+783,deny,noi,noi
+784,deny,nope,nope
+785,deny,nahh,nahh
+786,deny,nana,nana
+787,deny,no,no
+788,deny,nahi,nahi
+789,deny,ji nahin,ji nahin
+790,deny,jii nahi,jii nahi
+791,deny,naa,naa
+792,deny,नौ,Nine
+793,deny,नहीं,No
+794,deny,जी नहीं,"No, yes"
+795,deny,ना,No
+796,prop,proprietership,proprietership
+797,prop,proprity,proprity
+798,prop,i am proprieter,i am proprieter
+799,prop,its proprietership,its proprietership
+800,prop,prop,prop
+801,prop,properteship,properteship
+802,prop,propertiship,propertiship
+803,prop,propreitership,propreitership
+804,prop,its properteship,its properteship
+805,prop,it is propertiship,it is propertiship
+806,prop,it is propreitership,it is propreitership
+807,prop,its properiteship,its properiteship
+808,prop,प्रोपराइटरशिप,Proprietorship
+809,prop,प्रोपराइटरी,Proprietary
+810,prop,प्रोप,Prop
+811,private,private,private
+812,private,it's private,it's private
+813,private,private,private
+814,private,pvt,pvt
+815,private,it is private,it is private
+816,private,private,private
+817,private,its private ltd,its private ltd
+818,private,प्रायवेट लिमिटेड,Private Limited
+819,private,प्रायवेट,Private
+820,public,its public,its public
+821,public,public,public
+822,public,public,public
+823,public,public,public
+824,public,it is public,it is public
+825,public,pub,pub
+826,public,publik,publik
+827,public,public ltd,public ltd
+828,public,public,public
+829,public,पब्लिक,Public
+830,public,पब्लिक लिमिटेड,Public Limited
+831,partnership,its partnership,its partnership
+832,partnership,partnership,partnership
+833,partnership,partnership,partnership
+834,partnership,partnership,partnership
+835,partnership,partner,partner
+836,partnership,patner,patner
+837,partnership,pship,pship
+838,partnership,p'ship,p'ship
+839,partnership,partnerr,partnerr
+840,partnership,partnership,partnership
+841,partnership,patnershi,patnershi
+842,partnership,its partnership,its partnership
+843,partnership,पार्टनर,The partner
+844,partnership,पार्टनरशिप,partnership
+845,partnership,पार्टनरी,Partnery
+846,manufacturing,manufacturing,manufacturing
+847,manufacturing,manu,manu
+848,manufacturing,mnufctr,mnufctr
+849,manufacturing,manufacturing,manufacturing
+850,manufacturing,manufacturing,manufacturing
+851,manufacturing,मैन्युफैक्चरिंग,Manufacturing
+852,manufacturing,मैन्युफैक्चरर,Manufacturer
+853,manufacturing,मैन्युफैक्चर,Manufacture
+854,trader,trader,trader
+855,trader,retail,retail
+856,trader,wholesale,wholesale
+857,trader,retail and wholesale,retail and wholesale
+858,trader,shop,shop
+859,trader,shopkeeper,shopkeeper
+860,trader,dukaan,dukaan
+861,trader,showroom,showroom
+862,trader,ट्रेडर,Trader
+863,trader,रीटेल,Retail
+864,trader,रिटेलर,Retailer
+865,trader,शोरूम,The showroom
+866,trader,शॉप,Shop
+867,trader,दुकान,shop
+868,trader,थोक विक्रेता,Wholesaler
+869,SP,service,service
+870,SP,service provider,service provider
+871,SP,service based,service based
+872,SP,job,job
+873,SP,handicraft,handicraft
+874,SP,job work,job work
+875,SP,sp,sp
+876,SP,SP,SP
+877,SP,सर्विस,Service
+878,SP,सर्विस प्रोवाइडर,Service provider
+879,SP,जॉब वर्क,Job work
+880,SP,हैंडीक्राफ्ट,handicraft
+881,SP,हैंडलूम,handloom
+882,SP,एस पी,SP
+883,repeat,what,what
+884,repeat,what?,what?
+885,repeat,repeat,repeat
+886,repeat,repeat please,repeat please
+887,repeat,i did not understand,i did not understand
+888,repeat,what?,what?
+889,repeat,whatt??,whatt??
+890,repeat,i didnt get it,i didnt get it
+891,repeat,क्या,what
+892,repeat,क्या,what
+893,repeat,फिर से पूछो,ask again
+894,fmcg,fmcg,fmcg
+895,fmcg,fmcg,fmcg
+896,fmcg,FMCG,FMCG
+897,fmcg,एफएमसीजी,FMCG
+898,fmcg,एफ एम सी जी,Fmcg
+899,garments,garments,garments
+900,garments,gaments,gaments
+901,garments,clothes,clothes
+902,garments,गारमेंट्स,Garments
+903,garments,क्लॉथ,Cloth
+904,garments,कपड़ा,The cloth
+905,footwear,footwear,footwear
+906,footwear,foowear,foowear
+907,footwear,shoes,shoes
+908,footwear,फुटवेयर,Footwear
+909,footwear,जूते,The shoes
+910,footwear,शूज़,Shoes
+911,chemicals,chemicals,chemicals
+912,chemicals,chemic,chemic
+913,chemicals,chemical,chemical
+914,chemicals,केमिकल,Chemical
+915,chemicals,केमिकल,केमिकल

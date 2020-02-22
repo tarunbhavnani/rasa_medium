@@ -1,0 +1,151 @@
+%YAML 1.1
+---
+actions:
+- action_chitchat
+- utter_thanks
+- utter_default
+- action_thanks
+- action_default_fallback
+- utter_goodbye
+- action_stop
+#- action_listen
+- action_interview_start
+- utter_greet
+- action_fetch_details
+- action_stop_check
+- utter_ask_name
+- utter_tell_name
+- action_q1
+- action_q1f
+- action_q2
+- action_q2f
+- utter_ask_industry
+- action_end
+
+
+config:
+  store_entities_as_slots: false
+entities: []
+forms: []
+intents:
+- greet
+- inform
+- affirm
+- deny
+- goodbye
+- chitchat
+- thank
+- stop
+- weather
+- abuse
+- ask_name
+- tell_name
+
+slots:
+  counter:
+    auto_fill: true
+    initial_value: false
+    type: rasa_core.slots.UnfeaturizedSlot
+  current:
+    auto_fill: true
+    initial_value: false
+    type: rasa_core.slots.UnfeaturizedSlot
+  interview_state:
+    auto_fill: true
+    initial_value: start
+    type: rasa_core.slots.UnfeaturizedSlot
+
+
+  salary:
+    auto_fill: true
+    initial_value: false
+    type: rasa_core.slots.UnfeaturizedSlot
+  education:
+    auto_fill: true
+    initial_value: false
+    type: rasa_core.slots.UnfeaturizedSlot
+
+  user_cell:
+    auto_fill: true
+    initial_value: none
+    type: rasa_core.slots.TextSlot
+  user_name:
+    auto_fill: true
+    initial_value: Dear
+    type: rasa_core.slots.TextSlot
+  previous:
+    auto_fill: true
+    initial_value: action_interview_start action_interview_start
+    type: rasa_core.slots.TextSlot
+  json_response:
+    auto_fill: true
+    initial_value: none
+    type: rasa_core.slots.TextSlot
+
+
+templates:
+
+  utter_chitchat:
+  - text: "नहीं समझे। मैं फिर से पूछूंगा"
+  - text: "मुझे समझ नहीं आया, मैं फिर से पूछूंगा"
+  - text: "क्या आप फिर से अपना जवाब दोहरा सकते हैं, मैं फिर से पूछूंगा"
+
+  
+  utter_default:
+  - text: "क्या आप फिर से अपना जवाब दोहरा सकते हैं, मैं फिर से पूछूंगा"
+  
+  utter_goodbye:
+  - text: गुडबाय :(
+  - text: Bye!
+  
+  utter_greet:
+  - text: hi {user_name}!!
+  - text: नमस्ते
+  - text: Namaste!!
+  
+  utter_thanks:
+  - text: आपका धन्यवाद!
+  - text: धन्यवाद!
+
+  utter_ask_industry:
+  - text: "What kind of job are you into?"
+    buttons:
+    - title: "Data Science"
+      payload: "data science"
+    - title: "Banking"
+      payload: "banking"
+    - title: "doctor"
+      payload: "doctor"
+    - title: "Others"
+      payload: "others"
+      
+
+
+  
+  utter_stop_check:
+  - text: "क्या आप वाकई इंटरव्यू छोड़ना चाहते हैं?"
+    buttons:
+    - title: "हां "
+      payload: "हां "
+    - title: "ना"
+      payload: "ना"
+
+  utter_abuse:
+  - text: u too!
+  - text: I will judge you alot on the basis of your conduct!
+
+  utter_weather:
+  - text: it just started raining in Mumbai
+  - text: weather wont be good for you if I reject ur loan Dear!
+
+
+  utter_ask_name:
+  - text: My name is SMEbot.
+  - text: I am a bot. I work for SMEcorner.
+
+  utter_tell_name:
+  - text: "Your name is {user_name}."
+  - text: "{user_name} did u really think I forgot your name!!"
+
+
+
