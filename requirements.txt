@@ -151,7 +151,7 @@ tqdm==4.35.0
 twilio==6.30.0
 typing-extensions==3.7.4
 tzlocal==2.0.0
-ujson==1.35
+ujson==5.2.0
 uritemplate==3.0.0
 urllib3==1.25.3
 uvloop==0.13.0
